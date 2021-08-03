@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @inharul
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning how to program
+- 📫 How to reach me? I have no idea, maybe be you shouldn't do that.
