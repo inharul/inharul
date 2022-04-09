@@ -1,5 +1,4 @@
 <h4 >Hi 👋, I'm Inharul</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inharul&label=Profile%20views&color=0e75b6&style=flat" alt="inharul" /> </p>  
 <p>A mindless developer as well as a careless student.<p>
 <hr/>
 
