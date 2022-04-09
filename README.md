@@ -1,5 +1,4 @@
-<h4 >Hi 👋, I'm Inharul</h4>
-<p>A mindless developer as well as a careless student.<p>
+<h4>A mindless developer as well as a careless student.<h4>
 <hr/>
 
 - 🌱 I’m currently learning how to program
