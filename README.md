@@ -10,6 +10,8 @@ I don't know though that's what my teachers and I think of myself. To be honest,
 - 👀  I’m interested in nothing
 - 📫 How to reach me? **you shouldn't.**  
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inharul&show_icons=true&locale=en" alt="inharul" /></p>  
+
 <h5 align="left">Connect with me:</h5>  
 <p align="left">  
 <a href="https://www.youtube.com/channel/UCs0a7Nr4dCwWsWvChKCiN-g" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="ucs0a7nr4dcwwswvchkcin-g" height="20" width="30" /></a> <
@@ -24,4 +26,3 @@ I don't know though that's what my teachers and I think of myself. To be honest,
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="python" width="40" height="40"/>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inharul&show_icons=true&locale=en" alt="inharul" /></p>  
