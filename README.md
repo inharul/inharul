@@ -1,7 +1,6 @@
-<h1 >Hi 👋, I'm Inharul</h1>
+<h4 >Hi 👋, I'm Inharul</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inharul&label=Profile%20views&color=0e75b6&style=flat" alt="inharul" /> </p>  
-<h4>A mindless developer as well as a careless student.</h4>
-I don't know though that's what my teachers and I think of myself. To be honest, that's all I could come up with.
+<p>A mindless developer as well as a careless student.<p>
 <hr/>
 
 - 🌱 I’m currently learning how to program
