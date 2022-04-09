@@ -1,9 +1,8 @@
 
-<h1 >Heyo, I'm Inharul</h1>  
+<h1 >Heyo, I'm Inharul</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inharul&label=Profile%20views&color=0e75b6&style=flat" alt="inharul" /> </p>  
 <h4>A mindless developer as well as a careless student.</h4>
 I don't know though that's what my teachers and I think of myself. To be honest, that's all I could come up with.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inharul&label=Profile%20views&color=0e75b6&style=flat" alt="inharul" /> </p>  
   
 - 🌱 I’m currently learning how to program
 - 👀  I’m interested in nothing
