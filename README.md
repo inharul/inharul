@@ -1,4 +1,4 @@
-<h4>A mindless developer as well as a careless student.</h4>
+<h4>A mindless developer as well as a careless student.</h4> yep, it's me.
 <hr/>
 
 - 🌱 I’m currently learning how to program
