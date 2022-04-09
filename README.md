@@ -10,8 +10,6 @@ I don't know though that's what my teachers and I think of myself. To be honest,
 - 👀  I’m interested in nothing
 - 📫 How to reach me? **you shouldn't.**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inharul&show_icons=true&locale=en" alt="inharul" /></p>  
-
 <h5 align="left">Connect with me:</h5>  
 <p align="left">  
 <a href="https://www.youtube.com/channel/UCs0a7Nr4dCwWsWvChKCiN-g" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="ucs0a7nr4dcwwswvchkcin-g" height="20" width="30" /></a> <
