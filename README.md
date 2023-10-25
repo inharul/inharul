@@ -9,10 +9,12 @@
 </p>  
 <h5 align="left">Languages and Tools I use:</h5>  
 
-**Tools**
+`Tools`
+
 ![c](https://img.shields.io/badge/learning%20C-%23eee?logo=c&logoColor=white&labelColor=%23A8B9CC&link=https%3A%2F%2Fgithub.com%2Finharul%2Fidiono)
 ![postgreSQL](https://img.shields.io/badge/learning%20databases-%23eee?logo=postgresql&logoColor=white&labelColor=%234169E1&link=https%3A%2F%2Fgithub.com%2Finharul%2Fidiono)
-**Development Enviroment**
+
+`Development Enviroment`
 ![VSCodium](https://img.shields.io/badge/VSCodium-%23eee?logo=vscodium&logoColor=white&labelColor=%232F80ED)
 
 ###### ⭐Bookmarks:
