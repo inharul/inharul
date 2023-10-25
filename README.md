@@ -8,10 +8,6 @@
 <a href="https://discord.gg/CatZ9nSECb" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="eTqJ65vUV9" height="30" width="30" /></a>
 </p>  
 <h5 align="left">Languages and Tools I use:</h5>  
-<p>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" height="40" width="40" /></a>
-<a href="https://www.w3schools.com/cpp" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" height="40" width="40" /></a>
-<a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" height="40" width="40" /></a><a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" height="40" width="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" align="center" alt="javascript" height="40" width="40" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="center" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="40" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="python" width="40" height="40"/></a>
-</p>
+- C/C++
+- Webdev
+- learning databases
