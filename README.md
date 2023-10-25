@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning how to program
 - 👀  I’m interested in nothing
-- 📫 How to reach me? <u>you shouldn't physically.</u>
+- 📫 How to reach me? <u>you shouldn't physically but...</u>
 
 <h5 align="center">Connect with me:</h5>  
 <p align="center">  
