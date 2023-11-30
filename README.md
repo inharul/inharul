@@ -9,7 +9,8 @@
 </p>  
 <h5 align="left">Languages and Tools I use:</h5>  
 
-![c](https://img.shields.io/badge/learning%20C-%23eee?logo=c&logoColor=white&labelColor=%23A8B9CC) 
+![c](https://img.shields.io/badge/learning%20C-%23eee?logo=c&logoColor=white&labelColor=%23A8B9CC)
+![Rust](https://img.shields.io/badge/planning%20to%20learn%20Rust-eee?style=plastic&logo=rust&logoColor=white&labelColor=%23000000)
 ![postgreSQL](https://img.shields.io/badge/learning%20databases-%23eee?logo=postgresql&logoColor=white&labelColor=%234169E1) 
 ![React](https://img.shields.io/badge/React-%23eee?logo=react&logoColor=cyan&labelColor=%2300629B) 
 ![typescript](https://img.shields.io/badge/typescript-%23eee?logo=typescript&logoColor=white&labelColor=%233178C6) 
