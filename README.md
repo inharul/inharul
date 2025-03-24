@@ -1,21 +1,29 @@
-- 🌱 I’m currently _a lot of things_
+- 🌱 I’m currently learning _a lot of things_
 - 👀  I’m interested in... you guessed it yet? also a lot of things.
 - 📫 How to reach me? **you shouldn't physically** but...</u>
 
-<h5 align="center">Connect with me:</h5>  
+<p align="center">~ these normally work ~</p>  
 <p align="center">  
 <a href="https://www.youtube.com/@inharul" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="ucs0a7nr4dcwwswvchkcin-g" height="20" width="30" /></a> <
 <a href="https://discord.gg/CatZ9nSECb" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="eTqJ65vUV9" height="30" width="30" /></a>
 </p>
 
-<h5 align="left">Languages and Tools I use:</h5>  
+<h5 align="left">Languages and Tools I use:</h5>
 
-![c](https://img.shields.io/badge/learning%20C-%23eee?logo=c&logoColor=white&labelColor=%23A8B9CC)
-![Rust](https://img.shields.io/badge/planning%20to%20learn%20Rust-eee?style=plastic&logo=rust&logoColor=white&labelColor=%23000000)
-![postgreSQL](https://img.shields.io/badge/learning%20databases-%23eee?logo=postgresql&logoColor=white&labelColor=%234169E1) 
-![React](https://img.shields.io/badge/React-%23eee?logo=react&logoColor=cyan&labelColor=%2300629B) 
-![typescript](https://img.shields.io/badge/typescript-%23eee?logo=typescript&logoColor=white&labelColor=%233178C6) 
-![javascript](https://img.shields.io/badge/javascript_(im_forced)-%23eee?logo=javascript&logoColor=white&labelColor=%23F7DF1E)
+![typescript](https://img.shields.io/badge/typescript-white?style=plastic&logo=typescript&logoColor=white&labelColor=%233178C6) 
+![javascript](https://img.shields.io/badge/javascript_(im_forced)-white?style=plastic&logo=javascript&logoColor=white&labelColor=%23F7DF1E)
+![python](https://img.shields.io/badge/python_*hype*-white?style=plastic&logo=python&logoColor=white&labelColor=blue)
+![cpp](https://img.shields.io/badge/C(%2B%2B)_with_da_classes-white?style=plastic&logo=cplusplus&logoColor=white&labelColor=%2300599C)
+![c](https://img.shields.io/badge/the_og-white?style=plastic&logo=c&logoColor=white&labelColor=%23A8B9CC)
+![Rust](https://img.shields.io/badge/learning_Rust_without_socks-white?style=plastic&logo=rust&logoColor=white&labelColor=%23000000)
+![postgreSQL](https://img.shields.io/badge/DROP_TABLE_prod-white?logo=postgresql&logoColor=white&labelColor=%234169E1)
+![bash](https://img.shields.io/badge/sheBANG_(im_sorry)-white?style=plastic&logo=gnubash&logoColor=white&labelColor=%234EAA25)
+
+![React](https://img.shields.io/badge/React-white?style=plastic&logo=react&logoColor=cyan&labelColor=%2300629B)
+![Native](https://img.shields.io/badge/React_Native-white?style=plastic&logo=react&logoColor=%2358c4dc&labelColor=%231b1b1d)
+![electron](https://img.shields.io/badge/Electron_*eats_RAM*-white?style=plastic&logo=electron&logoColor=white&labelColor=%2347848F)
+![tauri](https://img.shields.io/badge/Tauri-white?style=plastic&logo=tauri&logoColor=%23FAAF00&labelColor=%23003545)
+
 
 ![VSCodium](https://img.shields.io/badge/VSCodium-%23eee?logo=vscodium&logoColor=white&labelColor=%232F80ED) 
 ![neovim](https://img.shields.io/badge/neovim_(heh)-%23eee?logo=neovim&logoColor=white&labelColor=%2357A143) 
