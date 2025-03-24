@@ -10,19 +10,19 @@
 
 <h5 align="left">Languages and Tools I use:</h5>
 
-![typescript](https://img.shields.io/badge/typescript-white?style=plastic&logo=typescript&logoColor=white&labelColor=%233178C6) 
-![javascript](https://img.shields.io/badge/javascript_(im_forced)-white?style=plastic&logo=javascript&logoColor=white&labelColor=%23F7DF1E)
-![python](https://img.shields.io/badge/python_*hype*-white?style=plastic&logo=python&logoColor=white&labelColor=blue)
-![cpp](https://img.shields.io/badge/C(%2B%2B)_with_da_classes-white?style=plastic&logo=cplusplus&logoColor=white&labelColor=%2300599C)
-![c](https://img.shields.io/badge/the_og-white?style=plastic&logo=c&logoColor=white&labelColor=%23A8B9CC)
-![Rust](https://img.shields.io/badge/learning_Rust_without_socks-white?style=plastic&logo=rust&logoColor=white&labelColor=%23000000)
+![typescript](https://img.shields.io/badge/typescript-white?logo=typescript&logoColor=white&labelColor=%233178C6) 
+![javascript](https://img.shields.io/badge/javascript_(im_forced)-white?logo=javascript&logoColor=white&labelColor=%23F7DF1E)
+![python](https://img.shields.io/badge/python_*hype*-white?logo=python&logoColor=white&labelColor=blue)
+![cpp](https://img.shields.io/badge/C(%2B%2B)_with_da_classes-white?logo=cplusplus&logoColor=white&labelColor=%2300599C)
+![c](https://img.shields.io/badge/the_og-white?logo=c&logoColor=white&labelColor=%23A8B9CC)
+![Rust](https://img.shields.io/badge/learning_Rust_without_socks-white?logo=rust&logoColor=white&labelColor=%23000000)
 ![postgreSQL](https://img.shields.io/badge/DROP_TABLE_prod-white?logo=postgresql&logoColor=white&labelColor=%234169E1)
-![bash](https://img.shields.io/badge/sheBANG_(im_sorry)-white?style=plastic&logo=gnubash&logoColor=white&labelColor=%234EAA25)
+![bash](https://img.shields.io/badge/sheBANG_(im_sorry)-white?logo=gnubash&logoColor=white&labelColor=%234EAA25)
 
-![React](https://img.shields.io/badge/React-white?style=plastic&logo=react&logoColor=cyan&labelColor=%2300629B)
-![Native](https://img.shields.io/badge/React_Native-white?style=plastic&logo=react&logoColor=%2358c4dc&labelColor=%231b1b1d)
-![electron](https://img.shields.io/badge/Electron_*eats_RAM*-white?style=plastic&logo=electron&logoColor=white&labelColor=%2347848F)
-![tauri](https://img.shields.io/badge/Tauri-white?style=plastic&logo=tauri&logoColor=%23FAAF00&labelColor=%23003545)
+![React](https://img.shields.io/badge/React-white?logo=react&logoColor=cyan&labelColor=%2300629B)
+![Native](https://img.shields.io/badge/React_Native-white?logo=react&logoColor=%2358c4dc&labelColor=%231b1b1d)
+![electron](https://img.shields.io/badge/Electron_*eats_RAM*-white?logo=electron&logoColor=white&labelColor=%2347848F)
+![tauri](https://img.shields.io/badge/Tauri-white?logo=tauri&logoColor=%23FAAF00&labelColor=%23003545)
 
 
 ![VSCodium](https://img.shields.io/badge/VSCodium-%23eee?logo=vscodium&logoColor=white&labelColor=%232F80ED) 
