@@ -1,11 +1,8 @@
-<div align="center">
-<img align="center" src="https://i.pinimg.com/736x/b1/95/a7/b195a71fe36ff37756455c2bb74ffdc1.jpg" />
-</div>
-<br>
-
-- 🌱 I’m currently learning _a lot of things_ <br>
-- 👀 I’m interested in... you guessed it yet? also a lot of things. <br>
-- 📫 How to reach me? **you shouldn't physically** but...</u> <br>
+```
+- 🌱 I’m currently learning _a lot of things_
+- 👀 I’m interested in... you guessed it yet? also a lot of things.
+- 📫 How to reach me? **you shouldn't physically** but...
+```
 
 <p align="center">~ these normally work ~</p>  
 <p align="center">  
