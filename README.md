@@ -1,8 +1,7 @@
-```
 - 🌱 I’m currently learning _a lot of things_
 - 👀 I’m interested in... you guessed it yet? also a lot of things.
 - 📫 How to reach me? **you shouldn't physically** but...
-```
+
 
 <p align="center">~ these normally work ~</p>  
 <p align="center">  
