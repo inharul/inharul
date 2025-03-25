@@ -12,7 +12,7 @@
 <h5 align="left">Languages and Tools I use:</h5>
 
 ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript&logoColor=white&labelColor=%233178C6) 
-![javascript](https://img.shields.io/badge/javascript_(im_forced)-white?logo=javascript&logoColor=white&labelColor=%23F7DF1E)
+![javascript](https://img.shields.io/badge/javascript_(im_forced)-white?logo=javascript&logoColor=white&labelColor=%23FAAF00)
 ![python](https://img.shields.io/badge/python_*hype*-white?logo=python&logoColor=white&labelColor=blue)
 ![cpp](https://img.shields.io/badge/C(%2B%2B)_with_da_classes-white?logo=cplusplus&logoColor=white&labelColor=%2300599C)
 ![c](https://img.shields.io/badge/the_og-white?logo=c&logoColor=white&labelColor=%23A8B9CC)
