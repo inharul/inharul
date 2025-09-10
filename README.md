@@ -19,6 +19,10 @@
 ![Rust](https://img.shields.io/badge/learning_Rust_without_socks-white?logo=rust&logoColor=white&labelColor=%23000000)
 ![postgreSQL](https://img.shields.io/badge/DROP_TABLE_prod-white?logo=postgresql&logoColor=white&labelColor=%234169E1)
 ![bash](https://img.shields.io/badge/sheBANG_(im_sorry)-white?logo=gnubash&logoColor=white&labelColor=%234EAA25)
+![kotlin](https://img.shields.io/badge/android_friendly_Java-white?logo=kotlin&logoColor=white&labelColor=7F52FF)
+
+![tailwind](https://img.shields.io/badge/CSS_in_classes-white?logo=tailwindcss&logoColor=white&labelColor=06B6D4)
+![jetpack](https://img.shields.io/badge/Jetpack_joyride-white?logo=jetpackcompose&logoColor=white&labelColor=4285F4)
 
 ![React](https://img.shields.io/badge/React-white?logo=react&logoColor=cyan&labelColor=%2300629B)
 ![Native](https://img.shields.io/badge/React_Native-white?logo=react&logoColor=%2358c4dc&labelColor=%231b1b1d)
