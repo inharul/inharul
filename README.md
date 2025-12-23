@@ -30,9 +30,10 @@
 ![tauri](https://img.shields.io/badge/Tauri-white?logo=tauri&logoColor=%23FAAF00&labelColor=%23003545)
 
 
-![VSCodium](https://img.shields.io/badge/VSCodium-%23eee?logo=vscodium&logoColor=white&labelColor=%232F80ED) 
+![VSCodium](https://img.shields.io/badge/VSCodium-%23eee?logo=vscodium&logoColor=white&labelColor=%232F80ED)
+![Emacs](https://img.shields.io/badge/are_we_*doom*ed%3F-%23eee?logo=gnuemacs&logoColor=white&labelColor=7F5AB6)
 ![neovim](https://img.shields.io/badge/neovim_(heh)-%23eee?logo=neovim&logoColor=white&labelColor=%2357A143) 
-![vim](https://img.shields.io/badge/*smugs*-%23eee?logo=vim&logoColor=white&labelColor=%23019733) 
+![vim](https://img.shields.io/badge/*smugs*-%23eee?logo=vim&logoColor=white&labelColor=%23019733)
 ![latex](https://img.shields.io/badge/LaTeX-%23eee?logo=latex&logoColor=white&labelColor=%23008080)
 
 ##### Bookmarks 📌
